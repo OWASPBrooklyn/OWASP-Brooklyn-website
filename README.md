@@ -18,9 +18,10 @@ You can use the [editor on GitHub](https://github.com/OWASPBrooklyn/OWASP-Brookl
 
 ### Featured Projects
 
-www.owasplearninggateway.org
+[OWASP Learning Gateway](https://www.owasplearninggateway.org/) 
 
-www.bugheist.com
+[OWASP BLT / Bugheist](https://www.bugheist.com/)
+
 
 ### Sponsors
 
